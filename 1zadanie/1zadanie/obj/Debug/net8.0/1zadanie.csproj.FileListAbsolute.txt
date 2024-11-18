@@ -1,0 +1,14 @@
+C:\Users\Глеб\source\repos\1zadanie\1zadanie\bin\Debug\net8.0\1zadanie.exe
+C:\Users\Глеб\source\repos\1zadanie\1zadanie\bin\Debug\net8.0\1zadanie.deps.json
+C:\Users\Глеб\source\repos\1zadanie\1zadanie\bin\Debug\net8.0\1zadanie.runtimeconfig.json
+C:\Users\Глеб\source\repos\1zadanie\1zadanie\bin\Debug\net8.0\1zadanie.dll
+C:\Users\Глеб\source\repos\1zadanie\1zadanie\bin\Debug\net8.0\1zadanie.pdb
+C:\Users\Глеб\source\repos\1zadanie\1zadanie\obj\Debug\net8.0\1zadanie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Глеб\source\repos\1zadanie\1zadanie\obj\Debug\net8.0\1zadanie.AssemblyInfoInputs.cache
+C:\Users\Глеб\source\repos\1zadanie\1zadanie\obj\Debug\net8.0\1zadanie.AssemblyInfo.cs
+C:\Users\Глеб\source\repos\1zadanie\1zadanie\obj\Debug\net8.0\1zadanie.csproj.CoreCompileInputs.cache
+C:\Users\Глеб\source\repos\1zadanie\1zadanie\obj\Debug\net8.0\1zadanie.dll
+C:\Users\Глеб\source\repos\1zadanie\1zadanie\obj\Debug\net8.0\refint\1zadanie.dll
+C:\Users\Глеб\source\repos\1zadanie\1zadanie\obj\Debug\net8.0\1zadanie.pdb
+C:\Users\Глеб\source\repos\1zadanie\1zadanie\obj\Debug\net8.0\1zadanie.genruntimeconfig.cache
+C:\Users\Глеб\source\repos\1zadanie\1zadanie\obj\Debug\net8.0\ref\1zadanie.dll
